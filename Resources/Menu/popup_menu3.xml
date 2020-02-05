@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/V_MPS"
+          android:title="Velocity, (m/s)" 
+          android:layout_height="27.0dp"/>
+    <item android:id="@+id/V_MPH"
+          android:title="Velocity, (mph)" 
+          android:layout_height="27.0dp"/>
+    <item android:id="@+id/V_KPH"
+          android:title="Velocity, (km/h)" 
+          android:layout_height="27.0dp"/>
+</menu>

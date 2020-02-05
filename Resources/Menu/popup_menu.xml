@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/LF_N"
+          android:title="Lift Force, (N)" 
+          android:layout_height="27.0dp"/>
+    <item android:id="@+id/LF_LBS"
+          android:title="Lift Force, (Lbs)"
+          android:layout_height="27.0dp"/>
+</menu>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/A_M"
+          android:title="Area, (m)" 
+          android:layout_height="27.0dp"/>
+    <item android:id="@+id/A_FT"
+          android:title="Area, (ft)" 
+          android:layout_height="27.0dp"/>
+</menu>
