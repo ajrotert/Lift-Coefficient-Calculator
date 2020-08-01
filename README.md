@@ -13,3 +13,8 @@ My brother is an engineering major and requested an Android app to do this calcu
 
 # Tech
 Built using C#.
+
+# Preview
+Lift Coefficient Converter                 |  Android App
+:-------------------------:|:-------------------------:
+![alt text 1](https://github.com/ajrotert/Lift-Coefficient-Calculator/blob/master/LiftCoefficientCalculator.gif?raw=true)  |   Mobile
